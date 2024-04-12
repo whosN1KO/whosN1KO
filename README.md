@@ -3,7 +3,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">N1KO</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<div align="center">
+<div align="left">
    <h2>Tech Stack</h2>
 </div>
 
@@ -48,15 +48,13 @@
 
 </p>
 
-<div align="center">
+<div align="left">
    <h2>Connect with me!</h2>
 </div>
 
    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicos-gonzalez-s/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://www.linkedin.com/in/nicos-gonzalez-s/) [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.linkedin.com/in/nicos-gonzalez-s/) 
 
-<div align="center">
-   ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-</div>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
